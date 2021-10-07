@@ -1,5 +1,5 @@
 name: Azure Static Web Apps CI/CD
-/** coucou **/
+
 on:
   push:
     branches:
